@@ -2,7 +2,7 @@ class Componente1 extends HTMLParagraphElement {
     constructor() {
         super();
         this.innerHTML = `
-        <p>Hola desde framgento.js</p>
+        <p>Planeta de los Simios</p>
         `;
     }
 }
